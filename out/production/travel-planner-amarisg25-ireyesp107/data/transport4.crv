@@ -1,0 +1,9 @@
+origin,destination,type,price,duration
+Hackensack,Teaneck,bus,5,10
+Hackensack,Los Angeles,train,50,20
+Hackensack,Los Angeles,bus,10,30
+Los Angeles,Hackensack,plane,270,5
+Los Angeles,Teaneck,train,200,15
+Teaneck,Los Angeles,train,200,15
+Hackensack,Philadelphia,train,50,10
+Philadelphia,Los Angeles,plane,20,10

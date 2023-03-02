@@ -1,0 +1,7 @@
+origin,destination,type,price,duration
+Cannes,Rome,bus,80,150
+Paris,Cannes,plane,250,10
+Paris,Marseille,bus,10,60
+Paris,Rome,plane,150,20
+Marseille,Cannes,bus,10,100
+Marseille,Paris,train,10,60
